@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Kolomiiets"]
+	path = SubmoduleRepository_Kolomiiets
+	url = git@github.com:Antao66/SubmoduleRepository_Kolomiiets.git
